@@ -2,7 +2,9 @@
 
 **Entry-level web & IT developer · Durban, South Africa**
 
-I'm developing my skills in web development, networking and technical support. I enjoy working on practical websites and exploring how software can support everyday security operations.
+I'm developing my skills in web development, networking and technical support. I enjoy creating practical websites and exploring how software can support everyday security operations.
+
+[Explore my portfolio](https://sabelo153.github.io/)
 
 ## Skills
 
@@ -10,21 +12,21 @@ I'm developing my skills in web development, networking and technical support. I
 - **Back end and databases:** PHP, MySQL
 - **IT:** Networking and technical support
 
-## Projects
+## Selected projects
 
-| Project | Overview |
-| --- | --- |
-| **Vital Force Services website** | A multi-page services website with About, Services, Gallery and Contact pages, plus images and video. |
-| **Developer portfolio** | A responsive HTML, CSS and JavaScript portfolio prepared for GitHub Pages. |
-| **Sentinel AI Security Suite** | A security-focused software project exploring AI in security tools and operations. |
-| **Digital Occurrence Book** | A digital occurrence-record and security operations app. |
+| Project | What I worked on | Links |
+| --- | --- | --- |
+| **Vital Force Services** | A multi-page services website with an About page, services, contact information, photographs and video. | [Website](https://vitalforceservices.co.za) · [Source](https://github.com/Sabelo153/vital-force-services) |
+| **Sentinel AI Security Suite** | A security operations development project with PHP, MySQL/MariaDB, web interfaces and a Kotlin Android guard client. | [Source and documentation](https://github.com/Sabelo153/Sentinel-AI-Security-Suite) |
+| **Digital Occurrence Book** | Occurrence-record and security operations work within the Sentinel project. | [Occurrence-book service](https://github.com/Sabelo153/Sentinel-AI-Security-Suite/blob/main/app/Services/OccurrenceBookService.php) |
+| **Developer portfolio** | A responsive HTML, CSS and JavaScript portfolio hosted on GitHub Pages. | [Live portfolio](https://sabelo153.github.io/) · [Source](https://github.com/Sabelo153/Sabelo153.github.io) |
 
-Source links and detailed demonstrations will be added as the projects are published and documented.
+Sentinel is a development project; the public repository contains a sanitised source snapshot. Its roadmap describes planned work as well as existing components.
 
 ## Learning and opportunities
 
-I'm continuing to build my knowledge of web development, databases and IT systems. I'm interested in entry-level development, junior IT and technical support opportunities where I can contribute and learn.
+I'm continuing to develop my knowledge of web development, databases and IT systems. I'm interested in entry-level development, junior IT and technical support opportunities where I can contribute and learn.
 
 ## Find me
 
-[GitHub: @Sabelo153](https://github.com/Sabelo153)
+[Portfolio](https://sabelo153.github.io/) · [GitHub: @Sabelo153](https://github.com/Sabelo153)
